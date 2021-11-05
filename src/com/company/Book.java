@@ -1,4 +1,6 @@
- public class Book implements Comparable<Book> {
+package com.company;
+
+public class Book implements Comparable<Book> {
 
         private String title;
         private String author;
